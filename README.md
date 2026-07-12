@@ -61,14 +61,15 @@ Or visit the **Live Demo** link below.
 Add your GitHub Pages URL here after deployment:
 
 ```
-https://your-username.github.io/SCT_SD_Task2_NumberGuessGame/
+ https://gowridevi09.github.io/SCT_SD_Task2/
 ```
 
 ---
 
 ## 📸 Screenshot
 
-Add a screenshot of your project here after running it.
+<img width="749" height="462" alt="image" src="https://github.com/user-attachments/assets/d6da9da9-a742-42e5-a020-ba337318eb45" />
+
 
 ---
 
@@ -89,7 +90,7 @@ Add a screenshot of your project here after running it.
 
 Software Development Intern – SkillCraft Technology
 
-GitHub: https://github.com/your-username
+GitHub: https://github.com/GowriDevi09/
 
 ---
 
